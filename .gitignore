@@ -1,0 +1,19 @@
+# Environment variables & secrets (DO NOT COMMIT)
+.env
+.env.local
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Submission archives
+code.zip
+agent-trace.zip
